@@ -17,7 +17,17 @@ If you do not see your language here, open an issue: https://github.com/TurboWar
 | Deutsch | de.yaml |
 | Eesti | et.yaml |
 | Ελληνικά | el.yaml |
-| English | en.yaml |
+| <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input id="input" type="search" autocomplete="off" spellcheck="false" aria-live="polite" placeholder="Google to Github">
+</body>
+</html>
+ | en.yaml |
 | Español | es.yaml |
 | Español Latinoamericano | es-419.yaml |
 | Euskara | eu.yaml |
